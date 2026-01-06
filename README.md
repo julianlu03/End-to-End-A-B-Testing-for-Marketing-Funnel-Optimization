@@ -6,6 +6,14 @@ The project simulates, analyzes, and stress-tests an A/B experiment evaluating w
 
 ---
 
+## Landing Page Variants
+
+<p align="center">
+  <img src="images/Landing Page AB Test.png" width="500">
+</p>
+
+---
+
 ## Business Problem
 
 Marketing teams frequently test landing page copy to improve conversion rates, but reliable decision-making requires more than a single p-value. This project addresses the following questions:
