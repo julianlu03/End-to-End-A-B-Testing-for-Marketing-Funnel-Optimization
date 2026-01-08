@@ -1,6 +1,6 @@
 # End-to-End A/B Testing for Marketing Funnel Optimization
 
-This repository demonstrates an end-to-end A/B testing workflow designed for **marketing analytics and data science applications**, with a focus on conversion rate optimization in a user acquisition funnel.
+This repository demonstrates an end-to-end A/B testing workflow designed for marketing analytics and data science applications, with a focus on conversion rate optimization in a user acquisition funnel.
 
 The project simulates, analyzes, and stress-tests an A/B experiment evaluating whether adding urgency-based copy (“Limited time offer”) to a landing page increases signup conversion, while monitoring downstream effects on purchase behavior.
 
