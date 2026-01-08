@@ -80,7 +80,6 @@ Ad → Landing Page → Signup → Purchase
 ## Project Structure
 
 ```
-.
 ├── notebook/
 │   └── ab_testing_analysis.ipynb
 ├── src/
