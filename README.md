@@ -1,4 +1,4 @@
-# End-to-End A/B Testing for Marketing Funnel Optimization
+# A/B Testing for Marketing Funnel Optimization
 
 This repository demonstrates an end-to-end A/B testing workflow designed for marketing analytics and data science applications, with a focus on conversion rate optimization in a user acquisition funnel.
 
